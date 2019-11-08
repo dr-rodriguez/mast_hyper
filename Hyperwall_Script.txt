@@ -1,6 +1,6 @@
 Hyperwall Script
 
-Side-Screen Text (u to 175 words)
+Side-Screen Text (up to 175 words)
 
 
 Script 
@@ -19,27 +19,38 @@ The end of IUE, alongside the rise of Hubble, is what spurred MAST to be created
 
 We follow up with a handful of small missions carried aboard the Space Shuttle in the early 90s.
 
-In the background greyscale, I'm been showing a density map of Gaia sources. MAST is an Affiliated Data Center and hosts a copy of the Gaia data through all our interfaces. I'll talk more about catalogs later.
+In the background greyscale, I'm been showing a density map of Gaia sources. 
+MAST is an Affiliated Data Center and hosts a copy of the Gaia data through all our interfaces. I'll talk more about catalogs later.
 
-Now we have EUVE, the Extreme Ultraviolet Explorer. Our main database host the spectra for this mission.
+Now we have EUVE, the Extreme Ultraviolet Explorer. 
+Our main database host the spectra for this mission.
 These past 3 missions have all been in the ultraviolet.
 
 HST! We all love Hubble data. It's getting close to 30 years and it's still producing incredible data.
 140 TB worth of science data in our observational database alone, not counting calibration files or derived catalogs.
 
-We follow up with FUSE, yet another ultraviolet spectroscopic mission. That arc near the Magellanic clouds is a set of calibration data that measured the local background.
+We follow up with FUSE, yet another ultraviolet spectroscopic mission. 
+That arc near the Magellanic clouds is a set of calibration data that measured the local background.
 
-GALEX! The Galaxy Evolution Explorer satellite is one of my favorites, both because of the coverage of it's ultraviolet survey and because I used its data in my thesis. Over 3/4 of the sky is covered by this mission.
+GALEX! The Galaxy Evolution Explorer satellite is one of my favorites, both because of the coverage of it's ultraviolet survey and because I used its data in my thesis. 
+Over 3/4 of the sky is covered by this mission.
 
-Swift is next, which is an interesting mission since it provides gammaray, xray, and UV-optical data. MAST has a copy of the UV/optical data; you can go to Heasarc to get to the higher enery data.
+Swift is next, which is an interesting mission since it provides gammaray, xray, and UV-optical data. 
+MAST has a copy of the UV/optical data; you can go to Heasarc to get to the higher enery data.
 
-Kepler! An incredible mission for exoplanet discoveries and asteroseismology, among many other things. It may look small in the sky, but it's an impressive mission. I'm not showing the followup K2 fields here, but we also host them at MAST.
+Kepler! An incredible mission for exoplanet discoveries and asteroseismology, among many other things. 
+It may look small in the sky, but it's an impressive mission. 
+I'm not showing the followup K2 fields here, but we also host them at MAST.
 
-PanSTARRS is a little unusual in that it's a ground based observatory, but that doesn't stop us from hosting this very rich dataset. Over 1 petabyte worth of data covering 3/4s of the sky, this is an incredible set of data. I'm not counting here the catalog data, but we'll get to that later.
+PanSTARRS is a little unusual in that it's a ground based observatory, but that doesn't stop us from hosting this very rich dataset. Over 1 petabyte worth of data covering 3/4s of the sky, this is an incredible set of data. 
+I'm not counting here the catalog data, but we'll get to that later.
 
-TESS! The Transiting Exoplanet Survey Satellite is quickly becoming one of my favorites. It's on going and we get new deliveries every month. We have several tools custom built to give users access to all this great data.
+TESS! The Transiting Exoplanet Survey Satellite is quickly becoming one of my favorites. 
+It's on going and we get new deliveries every month. 
+We have several tools custom built to give users access to all this great data.
 
-And last, but certainly not least, are the High-Level Science Products. This is where you, the community, come in and build amazing sets of data. 
+And last, but certainly not least, are the High-Level Science Products. 
+This is where you, the community, come in and build amazing sets of data. 
 If you have a clever new reduction algorithm, or a catalog built with some custom extraction routine, we are more than happy to host your work through our databases. 
 Other members of the community will be able to quickly and easily find and cite your work when it's hosted at MAST.
 
@@ -50,23 +61,32 @@ The power of MAST is that all of these missions are available through the same d
 
 4 TESS growing (movie) 1 min
 
-It doesn't end there, missions like TESS are continuing to deliver exciting new data. Each month TESS alone delivers roughly 3 terabytes of new data. 
+It doesn't end there, missions like TESS are continuing to deliver exciting new data. 
+Each month TESS alone delivers roughly 3 terabytes of new data. 
+We’re up to Sector 16 now since we first starting delivering data in December 2018. 
 
 And users like you contribute with High-Level Science Products that are permanently archived and accessible through MAST.
 
 5 Catalogs: PanSTARRS (image) 1 min
 
-Thus far, we've only talked about observations- images, spectra, timeseries. We also host catalogs at MAST. Here I'm showing a density map of PanSTARRS catalog sources, accessible through one of our new interfaces- catalogs.mast. 
+Thus far, we've only talked about observations- images, spectra, timeseries. 
+We also host catalogs at MAST. Here I'm showing a density map of PanSTARRS catalog sources, accessible through one of our new interfaces- catalogs.mast. 
 
-This new service also hosts the Hubble Source Catalog and Hubble Catalog of Variables. We're planning on providing even more of our catalogs through this interface.
+This new service also hosts the Hubble Source Catalog and Hubble Catalog of Variables. 
+We're planning on providing even more of our catalogs through this interface.
 
 6 Catalogs: exoMAST (image) 1 min
 
-If you research extrasolar planets, you may have heard of exo.MAST. This is a specialized science portal showcasing exoplanet information consolidated from a variety of catalogs, including TESS candidate detections from the mission data. This links to our observation database, as well as to quick look tools to help you explore the data for each planet and help you plan your proposals.
+If you research extrasolar planets, you may have heard of exo.MAST. 
+This is a specialized science portal showcasing exoplanet information consolidated from a variety of catalogs, including TESS candidate detections from the mission data. 
+This links to our observation database, as well as to quick look tools to help you explore the data for each planet and help you plan your proposals.
 
 7 Catalogs: zMAST (image) 1 min
 
-At the other extreme, we're developing a new portal specifically for high-redshift work. The z.MAST interface is still under development, but it will feature similar tools as exoMAST to explore the data available. Right now, we have sources from several deep fields, depicted here in blue, and we have plans to add those in red in the near future.
+At the other extreme, we're developing a new portal specifically for high-redshift work. 
+The z.MAST interface is still under development, but it will feature similar tools as exoMAST to explore the data available. 
+Right now, we have sources from several deep fields, depicted here in blue, and we have plans to add those in red in the near future.
 
 8 The Future (????)
 
+JWST & WFIRST, but no time?!?
