@@ -1,0 +1,32 @@
+
+Layout Notes
+
+Slide 1
+A1-C3: caom_mast_title.png
+
+Slide 2
+A1-C3: MAST_1_v2.mp4
+
+Slide 3
+A1-C3: MAST_2_v2.mp4 (loop until slide transition)
+
+Slide 4
+A1-C3: cat_ps1.png
+
+Slide 5
+A1-C3: cat_exomast.png
+
+Slide 6
+A1-C3: cat_zmast.png
+
+Slide 7
+A1-C3: TESS_1.mp4
+
+Slide 8
+A1-C3: caom_mast_center.png
+
+
+10th screen text:
+
+The Mikulski Archive for Space Telescopes, MAST, was founded in 1997 as a permanent home for HST and IUE data. 
+Today it spans over 40 years worth of observations, primarily focused on ultraviolet, optical, and near-infrared data. MAST hosts imaging, spectroscopic, and timeseries observations, in addition to source catalogs and user-contributed data in the form of High-Level Science Products (HLSP).
