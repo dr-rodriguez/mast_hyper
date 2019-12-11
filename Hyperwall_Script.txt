@@ -16,13 +16,14 @@ MAST is an Affiliated Data Center and hosts a copy of the Gaia data through all 
 2 Missions in MAST (movie) 5 mins
 
 We start with IUE, which launched in 1978 well before MAST even existed. 
+It observed for 18 years, despite having an expected lifetime of only 3 years.
 The end of IUE, alongside the rise of Hubble, is what spurred MAST to be created.
 
 We follow up with a handful of small missions carried aboard the Space Shuttle in the early 90s.
 Even small missions like these can be impactful.
 
 Now we have EUVE, the Extreme Ultraviolet Explorer. 
-Our main database hosts the spectra for this mission.
+We hold the spectroscopy observations in our main database; the all-sky survey is elsewhere and not represented here.
 These past 3 missions have all been in the ultraviolet.
 
 HST! We all love Hubble data. It's getting close to 30 years and it's still producing incredible data.
@@ -89,3 +90,4 @@ And users like you continue to contribute with exciting High-Level Science Produ
 
 8 MAST Final Slide
 
+I'll leave you here with the plot of the coverage of our observations at MAST and will take any questions.
