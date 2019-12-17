@@ -1,0 +1,1 @@
+convert -delay 50 -dispose 2 *.png tess.gif
