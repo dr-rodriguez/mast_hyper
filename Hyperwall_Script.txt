@@ -16,6 +16,7 @@ MAST is an Affiliated Data Center and hosts a copy of the Gaia data through all 
 2 Missions in MAST (movie) 5 mins
 
 We start with IUE, which launched in 1978 well before MAST even existed. 
+It is not the oldest mission we have, though. 
 It observed for 18 years, despite having an expected lifetime of only 3 years.
 The end of IUE, alongside the rise of Hubble, is what spurred MAST to be created.
 
@@ -32,22 +33,23 @@ HST! We all love Hubble data. It's getting close to 30 years and it's still prod
 We follow up with FUSE, yet another ultraviolet spectroscopic mission. 
 That arc near the Magellanic clouds is a set of calibration data that measured the local background.
 
-GALEX! The Galaxy Evolution Explorer satellite is one of my favorites, both because of the coverage of its ultraviolet survey and because I used its data in my thesis. 
-Over 3/4 of the sky is covered by this mission.
+GALEX! The Galaxy Evolution Explorer satellite is one of my favorites, both because of the coverage of its ultraviolet survey and because I used its data in my thesis.
+Young nearby stars, for example, have active chromospheres that emit lots of UV radiation.
 
 Swift is next, which is an interesting mission since it provides gamma-ray, x-ray, and UV-optical data. 
 MAST has a copy of the UV/optical data; you can go to Heasarc to get to the higher energy data.
 
-Kepler! An incredible mission for exoplanet discoveries and asteroseismology, among many other things. 
-It may look small in the sky, but it's an impressive mission. 
+Kepler! An incredible mission for exoplanet discoveries and asteroseismology, among many other things. Thousands of planet candidates have been discovered with Kepler and K2.
 I'm not showing the followup K2 fields here, but we also host them at MAST.
 
-PanSTARRS is a little unusual in that it's a ground based observatory, but that doesn't stop us from hosting this very rich dataset. Over 1 petabyte worth of data covering 3/4s of the sky, this is an incredible set of data. 
+PanSTARRS is a ground based observatory in Haleakala in Maui. 
+Over 1 petabyte worth of data covering 3/4s of the sky
 I'm not counting here the catalog data, but we'll get to that later.
+The gap is due to the location on Earth of the observatory- we can't access the southern hemisphere. 
 
 TESS! The Transiting Exoplanet Survey Satellite is quickly becoming one of my favorites. 
 It's on going and we get new deliveries every month. 
-We have several custom tools to give users access to all this great data.
+I'll talk more about TESS towards the end.
 
 And last, but certainly not least, are the High-Level Science Products. 
 This is where you, the community, come in and build amazing sets of data. 
@@ -58,6 +60,10 @@ Other members of the community will be able to quickly and easily find and cite 
 
 The power of MAST is that all of these missions are available through the same database and with all our interfaces. 
 40 years worth of data, 1.4 petabytes of science across 170 million files and the entire sky at your fingertips.
+
+This is a multimission archive- a single search gets you data across all our missions from the ultraviolet to the infrared (especially with JWST launching soon). Most importantly, we offer science-ready data; it's already been calibrated and reduced for you.
+
+With JWST and WFIRST launching soon, MAST will continue to grow.
 
 4 Catalogs: PanSTARRS (image) 1 min
 
@@ -77,7 +83,7 @@ This interface links to our observation database, as well as to quick look tools
 6 Catalogs: zMAST (image) 1 min
 
 At the other extreme, we're building a new portal specifically for high-redshift work. 
-The z.MAST interface is still under development, but it will feature similar tools as exo.MAST to explore the data available. 
+The z.MAST interface is still under development, but we have launched a prototype. You can check it out or stop by the MAST booth for a demo. 
 Right now, we have sources from several deep fields, depicted here in blue, and we have plans to add those in orange in the near future.
 
 7 TESS growing (movie) 1 min
@@ -85,9 +91,11 @@ Right now, we have sources from several deep fields, depicted here in blue, and 
 It doesn't end there, MAST continues to grow as missions like TESS deliver exciting new data. 
 Each month TESS alone delivers roughly 3 terabytes of new data. 
 This movie goes up to Sector 16, but we're now up to Sector 18 since we first starting delivering data in December 2018. 
+Timeseries data from TESS is helping us find transiting planets, but also transient phenomena like supernova or flares.
 
 And users like you continue to contribute with exciting High-Level Science Products that are permanently archived and accessible through MAST.
 
 8 MAST Final Slide
 
-I'll leave you here with the plot of the coverage of our observations at MAST and will take any questions.
+I'll leave you here with the plot of the coverage of our observations at MAST. You can find us at the MAST booth in the STScI area and we are happy to talk to you about our various tools and get feedback. Now, I'll take any brief questions you may have.
+
